@@ -58,13 +58,3 @@ screenshots/
 | POST   | `/api/tasks`     | Add a task, with body `{ "title": "..." }`                      |
 | PUT    | `/api/tasks/:id` | Update a task, with body `{ "completed": true }` and/or `{ "title": "..." }` |
 | DELETE | `/api/tasks/:id` | Delete a task                                                  |
-
-## Screenshots
-
-| Adding a task | Completing tasks |
-| --- | --- |
-| ![Add](screenshots/pic%201.png) | ![Complete](screenshots/pic%202.png) |
-
-| Before delete | After delete |
-| --- | --- |
-| ![Before delete](screenshots/pic%203.png) | ![After delete](screenshots/pic%204.png) |
