@@ -20,7 +20,6 @@ frontend/
   src/App.jsx         State and API wiring
   src/components/     TaskForm, TaskList, TaskItem
   vite.config.js      Dev server (port 3000), proxies /api to the backend
-screenshots/
 ```
 
 ## How to Run
